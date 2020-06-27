@@ -23,8 +23,8 @@ FrameWork created with:
 • TestNG with annotations
 • Page Factory as Page object Design Pattern
 
-Reporting
+Reporting:
 Basic TestNG html report is used for demo.
 
-Created By
+Created By:
 Bikram Bibhuti
